@@ -49,6 +49,8 @@ MANIFEST
 link.py
 cropped_images/
 scrapped_images/
+cropped_images_v1/
+scrapped_images_v1/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
