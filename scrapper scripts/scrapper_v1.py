@@ -6,6 +6,7 @@ from urllib.parse import urljoin
 from link import LINK
 
 for i in range(2, 10):
+    BASE_URL = LINK
     SAVE_DIR = "scrapped_images_v1/"
     HEADERS = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
